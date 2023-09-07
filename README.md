@@ -1,9 +1,9 @@
 <h1 align="center">Hello im victimize</h1>
 <h3 align="center">I delevop when im bored</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a0-3&label=Profile%20views&color=0e75b6&style=flat" alt="a0-3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EsqueIeSquad&label=Profile%20views&color=0e75b6&style=flat" alt="EsqueIeSquad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a0-3" alt="a0-3" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EsqueIeSquad" alt="EsqueIeSquad" /></a> </p>
 
 - I’m currently learning **Lua, Python, Javascript**
 
