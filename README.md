@@ -1,5 +1,5 @@
 <h1 align="center">Hello im victimize</h1>
-<h3 align="center">I delevop when im bored</h3>
+<h3 align="center">I code when im bored</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mphm&label=Profile%20views&color=0e75b6&style=flat" alt="mphm" /> </p>
 
@@ -7,7 +7,7 @@
 
 - Contact me **for any question**
 
-- Discord **mpvm**
+- Discord **@equitative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
